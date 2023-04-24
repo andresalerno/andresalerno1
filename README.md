@@ -1,6 +1,13 @@
-## Andre Salerno's Profile
+### Hi everyone! 👋
 
-Hi everyone!
+<!--
+**andresalerno/my_profile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here as some ideias to get you started:
+
+- 👨🏼‍🎓
+
+-->
 
 My name is Andre Salerno, a brazilian and italian citizen whos loves finance and technology. I have been studying programming language like Python, R, PostgreSQL and others to become a better financial consultant. My ideas and solutions are always wapred up with finance and tech tools.
 
