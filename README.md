@@ -17,6 +17,10 @@ Because of this contact I can share my ideas around #finance, #economics, #machi
 
 I hope that you get to know here some important ideas around my projects.
 
+## License
+
+Released under [MIT](/LICENSE) by [@andresalerno](https://github.com/andresalerno).
+
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/andresalerno)](https://github.com/andresalerno)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andresalerno/)](https://www.linkedin.com/in/andresalerno/)
 [![Salerno](https://komarev.com/ghpvc/?username=andresalerno)](https://github.com/andresalerno)
